@@ -1,2 +1,2 @@
 # hello-world
-just trying to add a repository
+This is a repository that will be usefull for OSCP students
